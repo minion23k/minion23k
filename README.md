@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a SaaS-based SmartPOS system  <br>👯 I’m looking to collaborate on innovative SaaS projects, POS integrations & AI-driven solutions  <br>🌱 I’m currently learning advanced trading systems, real-time data streaming & scalable cloud architectures  <br>💬 Ask me about JavaScript, Python, POS systems, eCommerce integrations & AI in business  <br>⚡ Fun fact: I can brainstorm business ideas faster than I finish my coffee ☕🚀  <br>
+Hi I'm Vincent Kyalo<br><br>🔭 I’m currently working on a SaaS-based SmartPOS system  <br>👯 I’m looking to collaborate on innovative SaaS projects, POS integrations & AI-driven solutions  <br>🌱 I’m currently learning advanced trading systems, real-time data streaming & scalable cloud architectures  <br>💬 Ask me about JavaScript, Python, POS systems, eCommerce integrations & AI in business  <br>⚡ Fun fact: I can brainstorm business ideas faster than I finish my coffee ☕🚀  <br>
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=minion23k&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=minion23k&limit=5&theme=dark&combine_all_yearly_contributions=true)
