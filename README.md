@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm Vincent Kyalo<br><br>🔭 I’m currently working on an autonomous quantum analysis tool , stay tuned😉  <br>👯 I’m looking to collaborate on innovative SaaS projects, POS integrations & AI-driven solutions  <br>🌱 I’m currently learning advanced trading systems, real-time data streaming & scalable cloud architectures  <br>💬 Ask me about JavaScript, Python, POS systems, eCommerce integrations & AI in business  <br>⚡ Fun fact: I can brainstorm business ideas faster than I finish my coffee ☕🚀  <br>
+Hi I'm Vincent Kyalo<br><br>🔭 I’m currently working on an autonomous quantum analysis tool , stay tuned😉  <br>  <br>🌱 I’m currently learning advanced trading systems, real-time data streaming & scalable cloud architectures  <br>💬 Ask me about JavaScript, Python, POS systems, eCommerce integrations & AI in business  <br>⚡ Fun fact: I can brainstorm business ideas faster than I finish my coffee ☕🚀  <br>
 
 
 ## 🌐 Socials:
