@@ -1,21 +1,148 @@
-# 💫 About Me:
-Hi I'm Vincent Kyalo<br><br>🔭 I’m currently working on an autonomous quantum analysis tool , stay tuned😉<br>🌱 I’m currently learning advanced trading systems, real-time data streaming & scalable cloud architectures<br>💬 Ask me about JavaScript, Python, Routeros, eCommerce integrations & AI in business<br>⚡ Fun fact: I can brainstorm business ideas faster than I finish my coffee ☕🚀<br>
+<!--
+  Vincent Kyalo | GitHub Profile
+  Repository: minion23k/minion23k
+-->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/minion_23k) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/minion23k) 
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0d1117,50:161b22,100:1f6feb&text=VINCENT%20KYALO&fontColor=ffffff&fontSize=48&fontAlignY=45&desc=SOFTWARE%20%C3%97%20INFRASTRUCTURE%20%C3%97%20INTELLIGENCE&descAlignY=65&descSize=13&animation=fadeIn" width="100%" alt="Vincent Kyalo — Software, Infrastructure, Intelligence"/>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=minion23k&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=minion23k&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=minion23k&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://github.com/minion23k">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=I+build+systems%2C+not+just+interfaces.;Software+engineering+meets+infrastructure.;Automate+the+boring.+Engineer+the+hard.;Ideas+are+cheap.+Working+systems+aren't." alt="Typing animation"/>
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=minion23k&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
+
+<a href="https://github.com/minion23k?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
+<a href="https://x.com/minion23k">
+  <img src="https://img.shields.io/badge/FOLLOW-ON_X-161b22?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X"/>
+</a>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=minion23k&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### `whoami`
+
+```text
+Vincent Kyalo
+Software Engineer / Network Engineer
+
+Interests   Software systems, infrastructure, automation
+Building    SaaS products, business tools, analytical systems
+Exploring   Applied AI, quantitative research, cloud architecture
+Philosophy  Understand the system. Simplify the problem. Ship the solution.
+```
+
+I work across the layers where software meets the real world — applications, APIs, databases, networks, servers, and the processes connecting them.
+
+I am interested in more than making things run. I want to understand **why they work, where they fail, and how to make them better.**
+
+### `// things_in_progress`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**01 / BUSINESS SYSTEMS**
+
+Building software for the operational side of business: inventory, point of sale, e-commerce, and data-driven workflows.
+
+`TypeScript` `Next.js` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+**02 / NETWORK & INFRASTRUCTURE**
+
+Exploring network management, RouterOS, Linux environments, deployment, and infrastructure automation.
+
+`RouterOS` `Linux` `Cloud`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**03 / QUANTITATIVE SYSTEMS**
+
+Researching trading strategies, backtesting methodologies, performance metrics, and automated analysis.
+
+`Python` `FastAPI` `Data`
+
+</td>
+<td width="50%" valign="top">
+
+**04 / INTELLIGENT SOFTWARE**
+
+Exploring practical AI integrations, automated workflows, and tools that make complex operations simpler.
+
+`Python` `APIs` `AI`
+
+</td>
+</tr>
+</table>
+
+### `// the_toolbox`
+
+<div align="center">
+
+**LANGUAGES & FRAMEWORKS**
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,fastapi,tailwind" alt="JavaScript, TypeScript, Python, React, Next.js, Node.js, Express, FastAPI and Tailwind CSS"/>
+
+**DATA & INFRASTRUCTURE**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,prisma,supabase,linux,docker,nginx,aws,azure,cloudflare" alt="PostgreSQL, MySQL, Redis, Prisma, Supabase, Linux, Docker, Nginx, AWS, Azure and Cloudflare"/>
+
+**DEVELOPMENT WORKFLOW**
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,bash,powershell" alt="Git, GitHub, GitHub Actions, VS Code, Bash and PowerShell"/>
+
+</div>
+
+<sub>Technologies shown represent my working toolkit and areas of exploration, not equal mastery of every tool.</sub>
+
+### `// featured_repository`
+
+<div align="center">
+
+<a href="https://github.com/minion23k/inventory-management">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=minion23k&repo=inventory-management&theme=github_dark&hide_border=true" width="100%" alt="Inventory management repository"/>
+</a>
+
+<a href="https://github.com/minion23k?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW-ALL%20PROJECTS-21262d?style=for-the-badge&logo=github&logoColor=white" alt="View all projects"/>
+</a>
+
+</div>
+
+### `// github_activity`
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=minion23k&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics"/>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=minion23k&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub contribution streak"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=minion23k&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**BUILD → TEST → MEASURE → IMPROVE**
+
+<a href="https://github.com/minion23k">GITHUB</a> ·
+<a href="https://x.com/minion23k">X</a> ·
+<a href="https://instagram.com/minion_23k">INSTAGRAM</a>
+
+<sub>Still learning. Still building. Never done.</sub>
+
+<img src="https://komarev.com/ghpvc/?username=minion23k&style=flat-square&color=1f6feb&label=PROFILE+VISITS" alt="Profile visits"/>
+
+</div>
