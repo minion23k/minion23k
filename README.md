@@ -1,123 +1,60 @@
-# Vincent Kyalo
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0d1117,50:161b22,100:1f6feb&text=VINCENT%20KYALO&fontColor=ffffff&fontSize=48&fontAlignY=45&desc=SOFTWARE%20%C3%97%20INFRASTRUCTURE%20%C3%97%20INTELLIGENCE&descAlignY=65&descSize=13&animation=fadeIn" width="100%" alt="Vincent Kyalo"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:0d1117,100:1f6feb&text=VINCENT%20KYALO&fontColor=ffffff&fontSize=44&fontAlignY=50" width="100%" alt="Vincent Kyalo"/>
 
-*Understanding complex systems. Building simple solutions.*
+### I build the systems businesses run on.
 
-[![GitHub](https://img.shields.io/badge/GitHub-minion23k-161b22?style=flat-square&logo=github)](https://github.com/minion23k)
-[![X](https://img.shields.io/badge/X-minion23k-161b22?style=flat-square&logo=x)](https://x.com/minion23k)
-[![Instagram](https://img.shields.io/badge/Instagram-minion__23k-161b22?style=flat-square&logo=instagram)](https://instagram.com/minion_23k)
+Software. Networks. Automation.
+From the fiber in the ground to the dashboard on the screen.
+
+[![Email](https://img.shields.io/badge/WORK_WITH_ME-1f6feb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![X](https://img.shields.io/badge/X-161b22?style=for-the-badge&logo=x&logoColor=white)](https://x.com/minion23k)
 
 </div>
 
 ---
 
-## The vision
+## Why it's different
 
-I want to build technology that makes complicated things simpler, gives people leverage, and creates value beyond the screen.
+I don't just write code. I run network operations at a live fiber ISP in Kenya, where downtime costs real customers real money. I know what it takes for software to work in production, not just in a demo.
 
-I'm interested in the intersection of software, infrastructure, intelligent systems, and business. Not as separate disciplines, but as parts of a larger system.
+## What I do
 
-The long-term ambition is to build products and systems that solve real problems, operate reliably, and can grow beyond their original purpose.
+**Business software**
+Point-of-sale, inventory, billing, and internal tools that replace spreadsheets and manual work.
 
-## What I build
+**Network & infrastructure**
+ISP-grade networking: MikroTik, Linux, monitoring, and fault response that keeps services online.
 
-**Software & products**
-
-Full-stack applications, SaaS platforms, business management systems, APIs, and tools that turn operational problems into manageable workflows.
-
-**Networks & infrastructure**
-
-Network engineering, MikroTik RouterOS, Linux, server management, and the infrastructure that keeps applications and services connected.
-
-**Automation & intelligent systems**
-
-Python tooling, data analysis, quantitative research, and practical applications of AI to improve how systems operate.
+**Automation & AI**
+Python systems and AI agents that handle repetitive work: customer support, alerts, reporting, data pipelines.
 
 ## Selected work
 
-### SmartPOS
-*Business operations, simplified.*
+| Project | What it solves |
+|---|---|
+| **[SmartPOS](https://github.com/minion23k/inventory-management)** | Sales, stock, and access control in one platform |
+| **NOC outage tracker** | Live fiber outage tracking with shift digests for the ops team |
+| **AI support agent** | Self-service customer support over WhatsApp and web |
+| **Quant research** | Backtested, risk-managed trading systems built on evidence |
 
-Working on a point-of-sale and inventory management platform designed around sales, stock, access control, and business workflows.
+## By the numbers
 
-[Explore the repository →](https://github.com/minion23k/inventory-management)
+- **[X]** customers served on networks I help operate
+- **[X]** team members managed, 24/7 operations
+- **[X]** hours of manual work removed by automation
 
-### Systems & automation
-*Less repetitive work. Better systems.*
+## How I work
 
-Exploring automation and tools that make complex workflows more consistent, measurable, and easier to manage.
-
-### Quantitative research
-*Ideas are hypotheses. Results are evidence.*
-
-Researching trading strategies, backtesting, and analytical systems with an emphasis on measurement, risk, and reproducibility.
-
----
-
-## My philosophy
+Understand the problem first. Build the simplest thing that works. Measure the result.
 
 > Simplicity is not the absence of complexity. It is the result of understanding it.
 
-**Think deeply. Build deliberately.**
+## Let's talk
 
-Understand the problem before reaching for a solution. Prefer a system you can explain over one you barely understand.
-
-**Make complexity earn its place.**
-
-Every abstraction, dependency, and feature should justify the cost it introduces. The best solution is not necessarily the one with the most technology.
-
-**Evidence over assumptions.**
-
-Test ideas against reality. Measure outcomes. Be willing to discard an approach when the results do not support it.
-
-**Build for the long term.**
-
-Care about reliability, security, maintainability, and the people who will use or inherit what you build.
-
-**Technology should create leverage.**
-
-The point is not to write more code. It is to solve meaningful problems with less friction and better outcomes.
-
----
-
-## The toolkit
+Have a system that's slow, manual, or breaking? Tell me the problem.
+**[YOUR_EMAIL]** · [X @minion23k](https://x.com/minion23k)
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,fastapi,tailwind&perline=8" alt="Languages and frameworks"/>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,prisma,supabase,linux,docker,nginx,aws,cloudflare,git,github&perline=6" alt="Databases, infrastructure and development tools"/>
-
-</div>
-
-<sub>Tools are means, not identity. The focus is on understanding the underlying systems and choosing the right tools for the problem.</sub>
-
----
-
-## Beyond the code
-
-I'm drawn to first principles, disciplined execution, and the process of turning an idea into something real.
-
-I believe ambition matters, but execution matters more. Curiosity starts the process; consistency and honest evaluation determine what survives.
-
-I'm always learning, building, and refining how I approach difficult problems.
-
-## Let's build
-
-I'm interested in connecting with engineers, founders, and builders who care about thoughtful design, sound engineering, and useful products.
-
-If you're working on a difficult problem worth solving, I'd like to hear about it.
-
-<div align="center">
-
-[![Explore my work](https://img.shields.io/badge/EXPLORE_MY_WORK-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/minion23k?tab=repositories)
-[![Connect on X](https://img.shields.io/badge/CONNECT-161b22?style=for-the-badge&logo=x&logoColor=white)](https://x.com/minion23k)
-
-<br/>
-
-<sub>Build thoughtfully. Measure honestly. Keep improving.</sub>
-
+<img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,nodejs,postgres,linux,docker,nginx&perline=9" alt="Stack"/>
 </div>
