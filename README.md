@@ -1,60 +1,71 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:0d1117,100:1f6feb&text=VINCENT%20KYALO&fontColor=ffffff&fontSize=44&fontAlignY=50" width="100%" alt="Vincent Kyalo"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:161b22,100:1f6feb&text=VINCENT%20KYALO&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=twinkling&section=header" width="100%" alt="Vincent Kyalo"/>
 
-### I build the systems businesses run on.
+<a href="https://github.com/minion23k">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1400&color=58A6FF&center=true&vCenter=true&width=720&height=40&lines=I+build+the+systems+businesses+run+on;Software+that+replaces+spreadsheets;Networks+that+stay+up;Automation+that+gives+you+your+hours+back" alt="Typing intro"/>
+</a>
 
-Software. Networks. Automation.
-From the fiber in the ground to the dashboard on the screen.
+<br/>
 
-[![Email](https://img.shields.io/badge/WORK_WITH_ME-1f6feb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Work with me](https://img.shields.io/badge/WORK_WITH_ME-1f6feb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 [![X](https://img.shields.io/badge/X-161b22?style=for-the-badge&logo=x&logoColor=white)](https://x.com/minion23k)
 
 </div>
 
 ---
 
-## Why it's different
+## Sound familiar?
 
-I don't just write code. I run network operations at a live fiber ISP in Kenya, where downtime costs real customers real money. I know what it takes for software to work in production, not just in a demo.
+- Your team lives in spreadsheets and WhatsApp threads.
+- Customers complain before you know something is down.
+- The same repetitive tasks eat hours every week.
 
-## What I do
+**I fix exactly that.** I run network operations at a live fiber ISP in Kenya, so I build software the way operators need it: reliable, simple, and ready for real customers on day one.
 
-**Business software**
-Point-of-sale, inventory, billing, and internal tools that replace spreadsheets and manual work.
+---
 
-**Network & infrastructure**
-ISP-grade networking: MikroTik, Linux, monitoring, and fault response that keeps services online.
+## Proof, not promises
 
-**Automation & AI**
-Python systems and AI agents that handle repetitive work: customer support, alerts, reporting, data pipelines.
+<div align="center">
+
+| **2,000+** | **24/7** | **{2.5+ hrs}** |
+|:---:|:---:|:---:|
+| customers on networks I help run | live operations, not demos | manual work removed by automation |
+
+</div>
+
+---
+
+## What I build
+
+**Business software** · POS, inventory, billing, internal tools
+**Network & infrastructure** · ISP-grade MikroTik, Linux, monitoring, fault response
+**Automation & AI** · support agents, alerts, reporting, data pipelines
 
 ## Selected work
 
 | Project | What it solves |
 |---|---|
 | **[SmartPOS](https://github.com/minion23k/inventory-management)** | Sales, stock, and access control in one platform |
-| **NOC outage tracker** | Live fiber outage tracking with shift digests for the ops team |
-| **AI support agent** | Self-service customer support over WhatsApp and web |
-| **Quant research** | Backtested, risk-managed trading systems built on evidence |
+| **Outage tracker** | Live fiber outage tracking with shift digests for ops |
+| **AI support agent** | Customer self-service over WhatsApp and web |
+| **Quant research** | Backtested, risk-managed trading systems |
 
-## By the numbers
-
-- **[X]** customers served on networks I help operate
-- **[X]** team members managed, 24/7 operations
-- **[X]** hours of manual work removed by automation
-
-## How I work
-
-Understand the problem first. Build the simplest thing that works. Measure the result.
-
-> Simplicity is not the absence of complexity. It is the result of understanding it.
+---
 
 ## Let's talk
 
-Have a system that's slow, manual, or breaking? Tell me the problem.
-**[YOUR_EMAIL]** · [X @minion23k](https://x.com/minion23k)
+Got a system that's slow, manual, or breaking? Tell me the problem. I reply with a plan, not a pitch.
+
+**[YOUR_EMAIL]** · [@minion23k on X](https://x.com/minion23k)
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,nodejs,postgres,linux,docker,nginx&perline=9" alt="Stack"/>
+
+<sub>Simplicity is not the absence of complexity. It is the result of understanding it.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1f6feb,100:0d1117&section=footer&animation=twinkling" width="100%"/>
+
 </div>
