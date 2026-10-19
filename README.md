@@ -58,7 +58,7 @@
 
 Got a system that's slow, manual, or breaking? Tell me the problem. I reply with a plan, not a pitch.
 
-**[YOUR_EMAIL]** · [@minion23k on X](https://x.com/minion23k)
+**vincentkyalo23@gmail.com** · [@minion23k on X](https://x.com/minion23k)
 
 <div align="center">
 
