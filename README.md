@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Work with me](https://img.shields.io/badge/WORK_WITH_ME-1f6feb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Work with me](https://img.shields.io/badge/WORK_WITH_ME-1f6feb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vincentkyalo23@gmail.com)
 [![X](https://img.shields.io/badge/X-161b22?style=for-the-badge&logo=x&logoColor=white)](https://x.com/minion23k)
 
 </div>
@@ -57,10 +57,8 @@
 | Site | My role | What it is |
 |---|---|---|
 | **[billmart.pro](https://www.billmart.pro/)** | Built it | Marketing site for a fiber ISP in Machakos: plans and pricing, coverage check, wholesale and business pages, FAQ, and a route into the customer portal. Built on Next.js. |
+| **[zayregadgets.com](https://zayregadgets.com/)** | Built it | Online gadgets business website. |
 | **[zafronixsafari.com](https://zafronixsafari.com/)** | Infrastructure and deployment | Safari tour operator's site (design by Innovition Solutions). I deployed it to production, set up the company's business email, and manage the server it runs on. |
-<!-- Uncomment once the domain is renewed:
-| **[zayregadgets.com](https://zayregadgets.com/)** | Built it | One line on what it does. |
--->
 
 <sub>Only public, non-NDA work is listed here. Client details stay private.</sub>
 
