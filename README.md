@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:161b22,100:1f6feb&text=VINCENT%20KYALO&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=twinkling&section=header" width="100%" alt="Vincent Kyalo"/>
-
-<a href="https://github.com/minion23k">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1400&color=58A6FF&center=true&vCenter=true&width=720&height=40&lines=I+build+the+systems+businesses+run+on;Software+that+replaces+spreadsheets;Networks+that+stay+up;Automation+that+gives+you+your+hours+back" alt="Typing intro"/>
-</a>
+<img src="assets/hero.svg" width="100%" alt="Vincent Kyalo: software and network operations"/>
 
 <br/>
 
@@ -54,11 +50,18 @@
 
 ## Live sites
 
-| Site | My role | What it is |
-|---|---|---|
-| **[billmart.pro](https://www.billmart.pro/)** | Built it | Marketing site for a fiber ISP in Machakos: plans and pricing, coverage check, wholesale and business pages, FAQ, and a route into the customer portal. Built on Next.js. |
-| **[zayregadgets.com](https://zayregadgets.com/)** | Built it | Online gadgets business website. |
-| **[zafronixsafari.com](https://zafronixsafari.com/)** | Infrastructure and deployment | Safari tour operator's site (design by Innovition Solutions). I deployed it to production, set up the company's business email, and manage the server it runs on. |
+| Site | My role | What it is | Status |
+|---|---|---|---|
+| **[billmart.pro](https://www.billmart.pro/)** | Built it | Marketing site for a fiber ISP in Machakos: plans and pricing, coverage check, wholesale and business pages, FAQ, and a route into the customer portal. Built on Next.js. | ![status](https://img.shields.io/website?url=https%3A%2F%2Fwww.billmart.pro&label=&up_message=live&up_color=3fb950&down_message=down&style=flat-square) |
+| **[zafronixsafari.com](https://zafronixsafari.com/)** | Infrastructure and deployment | Safari tour operator's site (design by Innovition Solutions). I deployed it to production, set up the company's business email, and manage the server it runs on. | ![status](https://img.shields.io/website?url=https%3A%2F%2Fzafronixsafari.com&label=&up_message=live&up_color=3fb950&down_message=down&style=flat-square) |
+| **[zayregadgets.com](https://zayregadgets.com/)** | Built it | Online gadgets business website. | |
+
+<div align="center">
+
+<a href="https://www.billmart.pro/"><img src="https://image.thum.io/get/width/800/crop/520/https://www.billmart.pro/" width="49%" alt="billmart.pro"/></a>
+<a href="https://zafronixsafari.com/"><img src="https://image.thum.io/get/width/800/crop/520/https://zafronixsafari.com/" width="49%" alt="zafronixsafari.com"/></a>
+
+</div>
 
 <sub>Only public, non-NDA work is listed here. Client details stay private.</sub>
 
@@ -75,7 +78,5 @@ Got a system that's slow, manual, or breaking? Tell me the problem. I reply with
 <img src="https://skillicons.dev/icons?i=python,ts,react,nextjs,nodejs,postgres,linux,docker,nginx&perline=9" alt="Stack"/>
 
 <sub>Simplicity is not the absence of complexity. It is the result of understanding it.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1f6feb,100:0d1117&section=footer&animation=twinkling" width="100%"/>
 
 </div>
